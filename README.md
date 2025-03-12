@@ -23,7 +23,7 @@ Feel free to explore and get in touch!
 
 ### 🛠️ Ansible Development Tools
 
-- [ansible-venv][09]: The `pipenv`-based environment I use when developing the Ansible roles mentioned above.
+- [ansible-venv][09]: The `pipenv` environment I use when developing the Ansible roles mentioned above.
 - [ansible-molecule-scenarios][10]: [Molecule][11] scenarios for testing Ansible roles during their development lifecycle.
 
 ## 📢 Disclaimer
