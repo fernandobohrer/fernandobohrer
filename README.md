@@ -23,7 +23,7 @@ Feel free to explore and get in touch!
 
 ### 🛠️ Ansible Development Tools
 
-- [ansible-venv][09]: The [`uv`][10] based environment I use when developing the Ansible roles mentioned above.
+- [devops-venv][09]: The [`uv`][10] based environment I use when developing the Ansible roles mentioned above.
 - [ansible-molecule-scenarios][11]: [Molecule][12] scenarios for testing Ansible roles during their development lifecycle.
 
 ## 📢 Disclaimer
@@ -38,7 +38,7 @@ This is my personal space. The views, content, and opinions expressed here are s
 [06]: https://github.com/fernandobohrer/ansible-role-unattended-upgrades
 [07]: https://github.com/fernandobohrer/ansible-role-dropbear-initramfs
 [08]: https://www.google.com/search?q=full+disk+encryption
-[09]: https://github.com/fernandobohrer/ansible-venv
+[09]: https://github.com/fernandobohrer/devops-venv
 [10]: https://docs.astral.sh/uv/
 [11]: https://github.com/fernandobohrer/ansible-molecule-scenarios
 [12]: https://ansible.readthedocs.io/projects/molecule/
